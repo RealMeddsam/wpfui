@@ -160,6 +160,7 @@
                                         HorizontalAlignment="Center"
                                         Content="{TemplateBinding Content}"
                                         TextElement.FontSize="10"
+                                        TextElement.FontWeight="Bold"
                                         TextElement.Foreground="{TemplateBinding Foreground}" />
                                 </Grid>
                             </Grid>
